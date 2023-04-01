@@ -8,6 +8,7 @@ const Login = () => {
     <div class="col-sm-25">
       <input type="text" readOnly className="form-control" id="staticEmail" />
 
+
     </div>
   </div>
   <div class="mb-3 row">
